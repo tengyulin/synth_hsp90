@@ -1,5 +1,5 @@
 # Cryo-EM Synthethic Generation for Hsp90 Molecule.
-We used the same workflow for the Hsp90 molecule, which was the molecule used in the original work by Seitz, E. For our experiment, we followed the original work and used PyMOL to create the second conformational change using the command: `pymol -cq CM2_pymol.py`.
+We used the [same workflow](https://github.com/tengyulin/synth_nlrp3.git) for the Hsp90 molecule, which was the molecule used in the original work by Seitz, E. For our experiment, we followed the original work and used PyMOL to create the second conformational change using the command: `pymol -cq CM2_pymol.py`.
 
 
 ## Refences
